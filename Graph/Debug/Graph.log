@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\NIkita\Desktop\Govnokod\C++\Graph\Graph\MyForm.h(46,19): warning C4677: myGraph: сигнатура члена, не являющегося частным, содержит частный тип сборки "MyGraph"
+C:\Users\NIkita\Desktop\Govnokod\C++\Graph\Graph\MyGraph.h(8): message : см. объявление "MyGraph"
+  MyGraph.cpp
+  Создание кода...
+  MyGraph.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Graph.vcxproj -> C:\Users\NIkita\Desktop\Govnokod\C++\Graph\Debug\Graph.exe
